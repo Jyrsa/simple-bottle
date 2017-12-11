@@ -32,7 +32,7 @@ def healthz():
     """
     Status endpoint for health checks
     """
-    return 'OK'
+    return 'Hello'
 
 
 if __name__ == '__main__':
